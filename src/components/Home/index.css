@@ -1,0 +1,16 @@
+.cont-prop {
+  height: 50vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-prop {
+  height: 40vh;
+}
+
+.title-prop {
+  color: #551e53;
+}
